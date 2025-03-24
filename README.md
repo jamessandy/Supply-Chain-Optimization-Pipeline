@@ -6,6 +6,7 @@ A global logistics company wants to opmitizr it's supply chain by analyzing ship
 
 
 ### Architecture
+![supplychain drawio (3)](https://github.com/user-attachments/assets/87e15e19-b3c7-414e-82e6-0aee22751641)
 
 
 
